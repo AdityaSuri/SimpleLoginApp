@@ -19,8 +19,7 @@
         <activity android:name=".User">
             <intent-filter>
                 <action android:name="com.aditya.simpleloginapp.User" />
-
-                <category android:name="android.intent.category.LAUNCHER" />
+                <category android:name="android.intent.category.DEFAULT" />
             </intent-filter>
         </activity>
     </application>
