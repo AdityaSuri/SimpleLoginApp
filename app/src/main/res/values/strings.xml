@@ -5,4 +5,5 @@
     <string name="password">Password</string>
     <string name="login">Login</string>
     <string name="attempts">Attempts:</string>
+    <string name="welcome">Welcome! You have logged in</string>
 </resources>
